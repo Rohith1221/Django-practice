@@ -1,4 +1,3 @@
-# This repo is just for practicing git
 <h1 align="center"><b>centered text</b></h1>
 <table>
 <tr>
