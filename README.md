@@ -1,6 +1,6 @@
 <h1 align="center">Advice Byte</h1>
 <hr>
-<!-- <table> -->
+<table> 
 <tr>
   <th>Made from : </th>
 <td align="center"><img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -10,7 +10,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </td>
   </tr>
-<!-- </table> -->
+</table>
 
 
 
