@@ -1,4 +1,5 @@
-<h1 align="center"><b>centered text</b></h1>
+<h1 align="center">Advice Byte</h1>
+<hr>
 <table>
 <tr>
   <th>Made from : </th>
