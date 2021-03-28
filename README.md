@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://github.com/Bhanu-183/AdviceByte)
+[![GitHub contributors](https://github.com/Bhanu-183/AdviceByte)](https://github.com/Bhanu-183/AdviceByte)
 
 
 
