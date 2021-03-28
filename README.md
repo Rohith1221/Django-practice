@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-[![GitHub contributors](https://github.com/Bhanu-183/AdviceByte)](https://github.com/Bhanu-183/AdviceByte)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
 
 
 
