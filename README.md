@@ -1,5 +1,5 @@
 # This repo is just for practicing git
-<h1 align="center" color="red">centered text</h1>
+<h1 align="center" b>centered text</h1>
 <table>
 <tr>
   <th>Made from : </th>
