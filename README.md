@@ -12,7 +12,6 @@
   </tr>
 </table>
 
-![1](https://github.com/Bhanu-183/AdviceByte)
 
 
 
