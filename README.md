@@ -1,4 +1,4 @@
-<h1 align="center">Advice Byte</h1>
+<span align="center">Advice Byte</span>
 <hr>
 <table> 
 <tr>
